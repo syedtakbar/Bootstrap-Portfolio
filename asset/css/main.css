@@ -1,0 +1,21 @@
+
+
+  #containter {
+
+    border-radius: 8px;
+    border: 1px solid #dddddd;    
+    background-color: #ffffff;
+    padding:20px; 
+    opacity: 0.8;
+    transition: all 1.5s ease-in-out;
+
+  }
+
+  #body {
+    background: #4aaaa5 url(../img/background.jpg) no-repeat fixed center;
+  }
+
+  #form {
+    border: 1px solid #dddddd;    
+
+  }
